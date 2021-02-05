@@ -32,3 +32,5 @@ bin/intermediate/intermediate:
 
 clean:
 	rm -rf bin
+git clone https://github.com/SnowyMouse/fancy-mouse-boot-rom && cd fancy-mouse-boot-rom
+
